@@ -1,0 +1,36 @@
+@charset "UTF-8";
+body
+{
+	background:#90D6E5
+}
+
+#banner
+{
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	background-color:#0F3285;
+	color: #90D6E5
+}
+
+
+table
+{
+	border: 1px #000000;
+	background-color:#90D6E5;
+	text-align: center;
+}
+
+td:hover
+{
+	background-color:#0F3285
+}
+
+a
+{
+	text-decoration: none;
+	color:white;
+}
+
+#content{float: left}
+#winterkingdom{float: right}
+#shop {background-color: white
+}
